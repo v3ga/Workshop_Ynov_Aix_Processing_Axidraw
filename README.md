@@ -4,7 +4,7 @@
 <img src="axidraw.jpg" width="500px" />
 
 ## Thème
-Au croisement du design graphique et de la programmation, ce workshop propose d’utiliser l'environnement [Processing](https://processingfoundation.org/) / [p5.js](https://p5js.org/) pour créer, générer des formes géométriques afin de les imprimer à l’aide d’un [robot traceur](https://www.axidraw.com/) dans la lignée des pionniers de l'art génératif. Cet atelier fera l'objet 
+Au croisement du design graphique et de la programmation, ce workshop propose d’utiliser l'environnement [Processing](https://processingfoundation.org/) / [p5.js](https://p5js.org/) pour créer, générer des formes géométriques afin de les imprimer à l’aide d’un [robot traceur](https://www.axidraw.com/) dans la lignée des pionniers de l'art génératif. Cet atelier fera l'objet d'une restitution la dernière demi-journée.
 
 ## Objectifs pédagogiques
 * découverte de l'histoire de l'art génératif et plus largement du design génératif, évolutions des années 60 à nous jours.
@@ -17,7 +17,7 @@ Au croisement du design graphique et de la programmation, ce workshop propose d�
 <img src="processing_axidraw_tool_generative.gif"  />
 
 ## Programme
-Le programme sera peut-être amené à évoluer au cours de la semaine en fonction de no 
+Le programme sera peut-être amené à évoluer au cours de la semaine. 
 
 #### Lundi 10 mai 2021
 * Matin : 
