@@ -28,6 +28,9 @@ Le programme sera peut-être amené à évoluer au cours de la semaine.
   * prise en main de l'environnement Processing, premiers pas en programmation. 
   * commandes de dessin, repère graphique, interactivité clavier / souris.
   * gestion de la couleur.
+
+* Mini exercice pour la semaine prochaine : réaliser un visage dans le style des "faces" de Bruno Munari 👉 https://hafiprocessjournal.wordpress.com/2014/10/16/bruno-munari/
+
 #### Lundi 17 mai 2021
 * variables.
 * nombres (pseudo) aléatoires.
