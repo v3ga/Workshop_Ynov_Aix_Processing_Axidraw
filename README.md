@@ -14,13 +14,11 @@ Au croisement du design graphique et de la programmation, ce workshop propose d�
 * insérer ses productions de formes dans un workflow plus général.
 * documenter ses explorations, penser une scénographie. 
 
-<img src="processing_axidraw_tool_generative.gif"  />
-
 ## Programme
 Le programme sera peut-être amené à évoluer au cours de la semaine. 
 
-##Sketch en ligne
-👉 https://editor.p5js.org/v3ga/sketches/4LpxLHxxf 👈
+## Sketches en ligne
+👉 https://editor.p5js.org/v3ga/collections/nfpwOXX6p 👈
 
 #### Lundi 10 mai 2021
 * Matin : 
