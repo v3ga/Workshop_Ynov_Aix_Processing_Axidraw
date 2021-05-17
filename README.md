@@ -20,7 +20,7 @@ Le programme sera peut-être amené à évoluer au cours de la semaine.
 ## Sketches en ligne
 👉 https://editor.p5js.org/v3ga/collections/nfpwOXX6p 👈
 
-<img src="Ynov_Aix_2021_cours02_errance.gif" height="400" />
+<img src="Ynov_Aix_2021_cours02_errance.gif" height="300" /><img src="Ynov_Aix_2021_cours02_pointillismes.gif" height="300" />
 
 #### Lundi 10 mai 2021
 * Matin : 
