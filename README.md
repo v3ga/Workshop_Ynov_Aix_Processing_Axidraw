@@ -50,7 +50,7 @@ Le programme sera peut-être amené à évoluer au cours de la semaine.
 * premiers tests d'impressions.
 
 <img src="Ynov_Aix_2021_cours03_blob04.gif" height="300" /><img src="Ynov_Aix_2021_cours03_blob01.gif" height="300" /><img src="Ynov_Aix_2021_cours03_quatre_elements_01.gif" height="300" />
-
+<img src="Ynov_Aix_2021_cours03_uatre_elements_interface.png" />
 
 #### Jeudi 20 mai 2021
 * travail personnel, accompagnement.
