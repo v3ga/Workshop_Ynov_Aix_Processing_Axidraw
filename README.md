@@ -22,6 +22,9 @@ Le programme sera peut-être amené à évoluer au cours de la semaine.
 
 <a href=""><img src="Ynov_Aix_2021_cours01_random_rects.gif" height="300" /></a><a href=""><img src="Ynov_Aix_2021_cours02_errance.gif" height="300" /></a><a href="#"><img src="Ynov_Aix_2021_cours02_pointillismes.gif" height="300" /></a>
 
+### Document pour référencer les sketches
+👉 https://docs.google.com/spreadsheets/d/1HRLDBOc1mZw9VT5DYWkjhx7iCekGf3S-nb_5AGkdO60/edit#gid=0 👈
+
 #### Lundi 10 mai 2021
 * Matin : 
   * Présentation de [Julien Gachadoat](https://www.instagram.com/julienv3ga/) et du studio de création numérique [2Roqs](http://www.2roqs.fr/).
