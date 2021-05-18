@@ -20,7 +20,7 @@ Le programme sera peut-être amené à évoluer au cours de la semaine.
 ## Sketches en ligne
 👉 https://editor.p5js.org/v3ga/collections/nfpwOXX6p 👈
 
-<a href=""><img src="Ynov_Aix_2021_cours01_random_rects.gif" height="300" /></a><a href=""><img src="Ynov_Aix_2021_cours02_errance.gif" height="300" /></a><a href="#"><img src="Ynov_Aix_2021_cours02_pointillismes.gif" height="300" /></a>
+<a href="https://editor.p5js.org/v3ga/sketches/XhEnB8bPI" target="_blank"><img src="Ynov_Aix_2021_cours01_random_rects.gif" height="300" /></a><a href="https://editor.p5js.org/v3ga/sketches/HB4Wb6orZ" target="_blank"><img src="Ynov_Aix_2021_cours02_errance.gif" height="300" /></a><a href="https://editor.p5js.org/v3ga/sketches/MPNNuXGOg" target="_blank"><img src="Ynov_Aix_2021_cours02_pointillismes.gif" height="300" /></a>
 
 ### Document pour référencer les sketches
 👉 https://docs.google.com/spreadsheets/d/1HRLDBOc1mZw9VT5DYWkjhx7iCekGf3S-nb_5AGkdO60/edit#gid=0 👈
