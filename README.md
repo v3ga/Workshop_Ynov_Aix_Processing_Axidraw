@@ -33,6 +33,7 @@ Le programme sera peut-être amené à évoluer au cours de la semaine.
 * transformation du repère de dessin.
 * exporter au format vectoriel, importation dans des outils. 
 * présentation du traceur et de sa prise en main pour être en autonomie.
+* 
 #### Mardi 18 mai 2021
 * boucles et fonction.
 * travail personnel, accompagnement.
@@ -44,6 +45,7 @@ Le programme sera peut-être amené à évoluer au cours de la semaine.
 #### Jeudi 20 mai 2021
 * travail personnel, accompagnement.
 * impressions avec le traceur.
+* 
 #### Vendredi 21 mai 2021
 * Matin : 
   * finalisation des impressions.
@@ -52,7 +54,6 @@ Le programme sera peut-être amené à évoluer au cours de la semaine.
   * présentation du travail, captation (photos, vidéo)
 
 <img src="Ynov_Aix_2021_B2_showreel.gif" />
-
 
 ### Références - liens
 * [Julien Gachadoat / Atelier à Stéréolux](https://github.com/v3ga/Workshop_Processing_Axidraw_Stereolux_2019)
