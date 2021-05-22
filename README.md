@@ -33,7 +33,7 @@ Le programme sera peut-être amené à évoluer au cours de la semaine.
 * transformation du repère de dessin.
 * exporter au format vectoriel, importation dans des outils. 
 * présentation du traceur et de sa prise en main pour être en autonomie.
-* 
+
 #### Mardi 18 mai 2021
 * boucles et fonction.
 * travail personnel, accompagnement.
@@ -45,7 +45,7 @@ Le programme sera peut-être amené à évoluer au cours de la semaine.
 #### Jeudi 20 mai 2021
 * travail personnel, accompagnement.
 * impressions avec le traceur.
-* 
+
 #### Vendredi 21 mai 2021
 * Matin : 
   * finalisation des impressions.
