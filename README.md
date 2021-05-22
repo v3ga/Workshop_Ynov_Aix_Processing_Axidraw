@@ -25,17 +25,6 @@ Le programme sera peut-être amené à évoluer au cours de la semaine.
 ### Document pour référencer les sketches
 👉 https://docs.google.com/spreadsheets/d/1HRLDBOc1mZw9VT5DYWkjhx7iCekGf3S-nb_5AGkdO60/edit#gid=0 👈
 
-#### Lundi 10 mai 2021
-* Matin : 
-  * Présentation de [Julien Gachadoat](https://www.instagram.com/julienv3ga/) et du studio de création numérique [2Roqs](http://www.2roqs.fr/).
-  * Histoire de l'art génératif, principaux acteurs des années 60-70, mouvement actuel.
-  * Présentation de l'environnement [Processing](https://processingfoundation.org/) et de son histoire.
-* Après-midi : 
-  * prise en main de l'environnement Processing, premiers pas en programmation. 
-  * commandes de dessin, repère graphique, interactivité clavier / souris.
-  * gestion de la couleur.
-
-* Mini exercice pour la semaine prochaine : réaliser un visage dans le style des "faces" de Bruno Munari 👉 https://hafiprocessjournal.wordpress.com/2014/10/16/bruno-munari/ avec un canvas 500 x 500 px.
 
 #### Lundi 17 mai 2021
 * variables.
