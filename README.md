@@ -1,5 +1,5 @@
 # Workshop Processing + Axidraw à l'école Ynov d'Aix en Provence
-*du 10 au 21 mai 2021*
+*du 17 au 21 mai 2021*
 
 <img src="axidraw.jpg" width="500px" />
 
