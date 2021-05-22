@@ -62,6 +62,9 @@ Le programme sera peut-être amené à évoluer au cours de la semaine.
 * Après-midi : 
   * présentation du travail, captation (photos, vidéo)
 
+<img src="Ynov_Aix_2021_B2_showreel.gif" />
+
+
 ### Références - liens
 * [Julien Gachadoat / Atelier à Stéréolux](https://github.com/v3ga/Workshop_Processing_Axidraw_Stereolux_2019)
 * [Tyler Hobbs / The importance of generative art](https://tylerxhobbs.com/essays/2021/the-importance-of-generative-art)
